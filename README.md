@@ -38,7 +38,7 @@ SPIKERR follows the [Black code formatting style](https://black.readthedocs.io/e
 
 All PRs, ideas, and fixes are welcome. If you are making major changes, a design doc before you start to get feedback may expedite the process.
 
-Your PR must pass the automated tests. The [semver](https://semver.org/) should be incremented appropriately as well.
+Your PR must pass the automated tests. The [semver](https://semver.org/) should be incremented as appropriate.
 
 If you're looking for ideas, [the issues page](https://github.com/ELanning/SPIKERR/issues) is a good place to start.
 
